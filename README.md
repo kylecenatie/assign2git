@@ -8,9 +8,6 @@ Kyle Cenatiempo
 
 First Comment
 Testbranch change this
+New git branch of GitHub
 
-
-
-
-First Comment 
 This is a change on newbranch
